@@ -1,0 +1,44 @@
+{
+  "chatFilters": [
+    {
+      "pattern": "[ 낚시 ]",
+      "type": "PARTIAL_MATCH",
+      "removeOriginalMessage": true
+    },
+    {
+      "pattern": "[ 통발 ]",
+      "type": "PARTIAL_MATCH",
+      "removeOriginalMessage": true
+    },
+    {
+      "pattern": "[ 재료 ]",
+      "type": "PARTIAL_MATCH",
+      "removeOriginalMessage": true
+    },
+    {
+      "pattern": "낚시 경험치 +",
+      "type": "PARTIAL_MATCH",
+      "removeOriginalMessage": true
+    },
+    {
+      "pattern": "★ 더블 낚시! 같은 물고기를 한 마리 더 잡았다!",
+      "type": "PARTIAL_MATCH",
+      "removeOriginalMessage": true
+    },
+    {
+      "pattern": "[ 작살 ]",
+      "type": "PARTIAL_MATCH",
+      "removeOriginalMessage": true
+    }
+  ],
+  "titleFilters": [],
+  "actionbarFilters": [],
+  "overlayFilters": [],
+  "messageLifetime": 30,
+  "textScaleInt": 10,
+  "maxLines": 10,
+  "maxLineWidth": 400,
+  "xOffset": 750,
+  "yOffset": 30,
+  "textAlignment": "LEFT"
+}

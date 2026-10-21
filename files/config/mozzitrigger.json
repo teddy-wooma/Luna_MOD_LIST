@@ -1,0 +1,12 @@
+{
+  "keywords": [
+    "아이템청소",
+    "귓말"
+  ],
+  "volume": 1.0,
+  "pitch": 1.0,
+  "interval": 1000,
+  "lastTriggerTime": 1792234919718,
+  "soundId": "mozzi:custom_alert",
+  "repeatCount": 1
+}

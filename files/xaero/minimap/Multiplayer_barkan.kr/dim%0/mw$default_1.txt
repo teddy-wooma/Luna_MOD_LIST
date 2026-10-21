@@ -1,0 +1,170 @@
+sets:분홍버섯:gui.xaero_default:물결고사리:트러플:백년산삼:도토리:바닥석청:벼랑초록꽃:설화:서리열매:서리연꽃:사막장미
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:gui.xaero_deathpoint_old:D:-541:-11:-892:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:작살스팟:작:2388:44:3939:16:true:0:gui.xaero_default:false:0:0:false
+waypoint:바닥석청 2:바:324:149:-829:14:true:0:gui.xaero_default:false:0:0:false
+waypoint:서리연꽃:서:154:309:-875:19:true:0:gui.xaero_default:false:0:0:false
+waypoint:바닥석청1:바:230:152:-802:10:true:0:gui.xaero_default:false:0:0:false
+waypoint:6:6:617:91:220:15:false:0:분홍버섯:false:0:0:false
+waypoint:5:5:636:92:110:10:false:0:분홍버섯:false:0:0:false
+waypoint:1:1:950:67:-201:7:false:0:분홍버섯:false:0:0:false
+waypoint:7:7:877:94:411:14:false:0:분홍버섯:false:0:0:false
+waypoint:8:8:822:98:551:10:false:0:분홍버섯:false:0:0:false
+waypoint:2:2:457:78:-69:16:false:0:분홍버섯:false:0:0:false
+waypoint:4:4:537:87:-29:18:false:0:분홍버섯:false:0:0:false
+waypoint:3:3:527:85:-49:12:false:0:분홍버섯:false:0:0:false
+waypoint:16:16:567:122:-563:9:false:0:물결고사리:false:0:0:false
+waypoint:15:15:549:129:-587:16:false:0:물결고사리:false:0:0:false
+waypoint:14:14:314:125:-639:1:false:0:물결고사리:false:0:0:false
+waypoint:13:13:300:115:-626:14:false:0:물결고사리:false:0:0:false
+waypoint:8:8:535:92:-392:4:false:0:물결고사리:false:0:0:false
+waypoint:9:9:497:93:-387:0:false:0:물결고사리:false:0:0:false
+waypoint:11:11:273:89:-465:20:false:0:물결고사리:false:0:0:false
+waypoint:15:15:483:122:-520:14:false:0:물결고사리:false:0:0:false
+waypoint:7:7:538:101:-448:4:false:0:물결고사리:false:0:0:false
+waypoint:6:6:546:102:-451:14:false:0:물결고사리:false:0:0:false
+waypoint:2:2:834:71:-280:15:false:0:물결고사리:false:0:0:false
+waypoint:1:1:837:71:-267:10:false:0:물결고사리:false:0:0:false
+waypoint:12:12:211:86:-541:18:false:0:물결고사리:false:0:0:false
+waypoint:10:10:507:96:-409:0:false:0:물결고사리:false:0:0:false
+waypoint:3:3:874:70:-275:19:false:0:물결고사리:false:0:0:false
+waypoint:5:5:840:129:-541:16:false:0:물결고사리:false:0:0:false
+waypoint:4:4:884:91:-383:10:false:0:물결고사리:false:0:0:false
+waypoint:트러플 14:트:925:112:-387:20:false:0:트러플:false:0:0:false
+waypoint:트러플 13:트:345:125:-649:7:false:0:트러플:false:0:0:false
+waypoint:트러플 12:트:858:69:-211:6:false:0:트러플:false:0:0:false
+waypoint:트러플 11:트:905:94:-336:4:false:0:트러플:false:0:0:false
+waypoint:트러플 10:트:496:111:-485:16:false:0:트러플:false:0:0:false
+waypoint:트러플 9:트:780:74:-313:9:false:0:트러플:false:0:0:false
+waypoint:트러플 8:트:269:92:-532:4:false:0:트러플:false:0:0:false
+waypoint:트러플 7:트:813:102:-504:18:false:0:트러플:false:0:0:false
+waypoint:트러플 7:트:1003:141:-347:5:false:0:트러플:false:0:0:false
+waypoint:트러플 6:트:589:92:-407:11:false:0:트러플:false:0:0:false
+waypoint:트러플 5:트:568:105:-453:0:false:0:트러플:false:0:0:false
+waypoint:트러플 4:트:504:144:-618:13:false:0:트러플:false:0:0:false
+waypoint:트러플 3:트:629:75:-255:4:false:0:트러플:false:0:0:false
+waypoint:트러플2:트:909:68:-249:10:false:0:트러플:false:0:0:false
+waypoint:트러플 1:트:557:76:-124:0:false:0:트러플:false:0:0:false
+waypoint:30:30:963:130:-670:5:false:0:백년산삼:false:0:0:false
+waypoint:29:29:745:182:-752:20:false:0:백년산삼:false:0:0:false
+waypoint:28:28:724:119:-826:0:false:0:백년산삼:false:0:0:false
+waypoint:27:27:531:210:-852:9:false:0:백년산삼:false:0:0:false
+waypoint:26:26:273:146:-753:11:false:0:백년산삼:false:0:0:false
+waypoint:25:25:258:223:-913:14:false:0:백년산삼:false:0:0:false
+waypoint:24:24:217:194:-935:0:false:0:백년산삼:false:0:0:false
+waypoint:23:23:159:226:-992:11:false:0:백년산삼:false:0:0:false
+waypoint: 22:22:72:208:-948:10:false:0:백년산삼:false:0:0:false
+waypoint:21:백:50:178:-860:18:false:0:백년산삼:false:0:0:false
+waypoint:20:20:174:187:-814:20:false:0:백년산삼:false:0:0:false
+waypoint:19:19:87:147:-750:8:false:0:백년산삼:false:0:0:false
+waypoint:18:18:-257:126:-737:8:false:0:백년산삼:false:0:0:false
+waypoint:17:17:-241:189:-805:1:false:0:백년산삼:false:0:0:false
+waypoint:16:16:-208:143:-880:12:false:0:백년산삼:false:0:0:false
+waypoint:15:15:-241:74:-1182:17:false:0:백년산삼:false:0:0:false
+waypoint:14:14:-328:94:-1168:9:false:0:백년산삼:false:0:0:false
+waypoint:13:13:-310:135:-1146:18:false:0:백년산삼:false:0:0:false
+waypoint:12:12:-148:183:-1058:15:false:0:백년산삼:false:0:0:false
+waypoint:11:11:-282:201:-1074:3:false:0:백년산삼:false:0:0:false
+waypoint:10:10:-380:183:-1090:12:false:0:백년산삼:false:0:0:false
+waypoint:9:9:-492:169:-1083:9:false:0:백년산삼:false:0:0:false
+waypoint:8:8:-470:210:-1066:11:false:0:백년산삼:false:0:0:false
+waypoint:7:7:-488:207:-962:13:false:0:백년산삼:false:0:0:false
+waypoint:6:6:-607:125:-975:14:false:0:백년산삼:false:0:0:false
+waypoint:5:5:-639:173:-852:7:false:0:백년산삼:false:0:0:false
+waypoint:4:4:-587:189:-820:19:false:0:백년산삼:false:0:0:false
+waypoint:3:3:-532:203:-842:15:false:0:백년산삼:false:0:0:false
+waypoint:2:2:-543:143:-807:9:false:0:백년산삼:false:0:0:false
+waypoint:1:1:-553:118:-673:5:false:0:백년산삼:false:0:0:false
+waypoint:도토리 10:도:665:89:-53:20:false:0:도토리:false:0:0:false
+waypoint:도토리 9:도:635:86:-85:7:false:0:도토리:false:0:0:false
+waypoint:도토리 8:도:512:77:-259:2:false:0:도토리:false:0:0:false
+waypoint:도토리 7:도:486:75:-128:8:false:0:도토리:false:0:0:false
+waypoint:도토리 6:도:458:85:37:16:false:0:도토리:false:0:0:false
+waypoint:도토리 5:도:444:84:10:9:false:0:도토리:false:0:0:false
+waypoint:도토리 4:도:475:79:-49:11:false:0:도토리:false:0:0:false
+waypoint:도토리 3:도:568:88:-62:3:false:0:도토리:false:0:0:false
+waypoint:도토리 2:도:560:89:22:15:false:0:도토리:false:0:0:false
+waypoint:도토리 1:도:557:90:72:20:false:0:도토리:false:0:0:false
+waypoint:19:19:-323:90:-566:4:false:0:바닥석청:false:0:0:false
+waypoint:18:18:-301:105:-706:7:false:0:바닥석청:false:0:0:false
+waypoint:5:5:722:158:-788:7:false:0:바닥석청:false:0:0:false
+waypoint:17:17:-205:159:-894:0:false:0:바닥석청:false:0:0:false
+waypoint:16:16:-34:148:-1009:19:false:0:바닥석청:false:0:0:false
+waypoint:15:15:27:130:-998:15:false:0:바닥석청:false:0:0:false
+waypoint:14:14:22:149:-957:14:false:0:바닥석청:false:0:0:false
+waypoint:13:13:230:152:-802:14:false:0:바닥석청:false:0:0:false
+waypoint:12:12:325:150:-828:20:false:0:바닥석청:false:0:0:false
+waypoint:11:11:409:164:-780:8:false:0:바닥석청:false:0:0:false
+waypoint:10:10:434:143:-804:12:false:0:바닥석청:false:0:0:false
+waypoint:8:8:503:157:-801:13:false:0:바닥석청:false:0:0:false
+waypoint:9:9:511:154:-830:11:false:0:바닥석청:false:0:0:false
+waypoint:6:6:639:189:-769:0:false:0:바닥석청:false:0:0:false
+waypoint:7:7:587:166:-753:4:false:0:바닥석청:false:0:0:false
+waypoint:4:4:646:137:-663:8:false:0:바닥석청:false:0:0:false
+waypoint:3:3:728:134:-624:15:false:0:바닥석청:false:0:0:false
+waypoint:2:2:843:159:-609:1:false:0:바닥석청:false:0:0:false
+waypoint:1:1:893:152:-529:10:false:0:바닥석청:false:0:0:false
+waypoint:벼랑 5:벼:-160:87:-1163:2:false:0:벼랑초록꽃:false:0:0:false
+waypoint:벼랑 4:벼:-200:119:-1159:13:false:0:벼랑초록꽃:false:0:0:false
+waypoint:벼랑 3:벼:-141:169:-1144:18:false:0:벼랑초록꽃:false:0:0:false
+waypoint:벼랑 2:벼:-183:90:-1164:5:false:0:벼랑초록꽃:false:0:0:false
+waypoint:벼랑초록꽃:벼:600:171:-680:4:false:0:벼랑초록꽃:false:0:0:false
+waypoint:설화 24:설:-331:221:-858:5:false:0:설화:false:0:0:false
+waypoint:설화 23:설:-318:248:-845:18:false:0:설화:false:0:0:false
+waypoint:설화 22:설:-261:229:-842:17:false:0:설화:false:0:0:false
+waypoint:설화 21:설:-267:242:-827:20:false:0:설화:false:0:0:false
+waypoint:설화 20:설:143:268:-859:12:false:0:설화:false:0:0:false
+waypoint:설화 19:설:182:284:-898:12:false:0:설화:false:0:0:false
+waypoint:설화 18:설:178:285:-895:4:false:0:설화:false:0:0:false
+waypoint:설화 17:설:169:276:-957:1:false:0:설화:false:0:0:false
+waypoint:설화 16:설:144:293:-868:5:false:0:설화:false:0:0:false
+waypoint:설화 15:설:143:308:-875:17:false:0:설화:false:0:0:false
+waypoint:설화 14:설:157:311:-884:20:false:0:설화:false:0:0:false
+waypoint:설화 13:설:169:306:-881:5:false:0:설화:false:0:0:false
+waypoint:설화 12:설:171:305:-870:10:false:0:설화:false:0:0:false
+waypoint:설화 11:설:191:283:-877:6:false:0:설화:false:0:0:false
+waypoint:설화 10:설:608:245:-851:14:false:0:설화:false:0:0:false
+waypoint:설화 9:설:674:245:-877:7:false:0:설화:false:0:0:false
+waypoint:설화 8:설:591:272:-965:11:false:0:설화:false:0:0:false
+waypoint:설화 7:설:574:276:-900:18:false:0:설화:false:0:0:false
+waypoint:설화 6:설:498:267:-900:12:false:0:설화:false:0:0:false
+waypoint:설화 5:설:545:275:-971:1:false:0:설화:false:0:0:false
+waypoint:설화 4:설:577:250:-1033:16:false:0:설화:false:0:0:false
+waypoint:설화 3:설:485:251:-964:16:false:0:설화:false:0:0:false
+waypoint:설화 2:설:454:236:-946:2:false:0:설화:false:0:0:false
+waypoint:설화 1:설:550:219:-853:1:false:0:설화:false:0:0:false
+waypoint:서리열매 22:서:-269:230:-874:15:false:0:서리열매:false:0:0:false
+waypoint:서리열매 21:서:-298:244:-891:20:false:0:서리열매:false:0:0:false
+waypoint:서리열매 20:서:-288:236:-860:4:false:0:서리열매:false:0:0:false
+waypoint:서리열매 19:서:-273:250:-846:2:false:0:서리열매:false:0:0:false
+waypoint:서리열매 18:서:-272:216:-783:1:false:0:서리열매:false:0:0:false
+waypoint:서리열매 17:서:175:289:-893:6:false:0:서리열매:false:0:0:false
+waypoint:서리열매 16:서:157:291:-937:2:false:0:서리열매:false:0:0:false
+waypoint:서리열매 15:서:139:279:-908:1:false:0:서리열매:false:0:0:false
+waypoint:서리열매 14:서:131:291:-887:14:false:0:서리열매:false:0:0:false
+waypoint:서리열매 13:서:105:276:-899:14:false:0:서리열매:false:0:0:false
+waypoint:서리열매 12:서:112:288:-869:8:false:0:서리열매:false:0:0:false
+waypoint:서리열매 11:서:117:290:-864:3:false:0:서리열매:false:0:0:false
+waypoint:서리열매 10:서:155:294:-864:9:false:0:서리열매:false:0:0:false
+waypoint:서리열매 9:서:176:296:-870:7:false:0:서리열매:false:0:0:false
+waypoint:서리열매 8:서:197:291:-887:2:false:0:서리열매:false:0:0:false
+waypoint:서리열매 7:서:579:246:-868:4:false:0:서리열매:false:0:0:false
+waypoint:서리열매 6:서:603:272:-879:16:false:0:서리열매:false:0:0:false
+waypoint:서리열매 5:서:515:261:-881:9:false:0:서리열매:false:0:0:false
+waypoint:서리열매 4:서:514:276:-922:0:false:0:서리열매:false:0:0:false
+waypoint:서리열매 3:서:502:277:-943:6:false:0:서리열매:false:0:0:false
+waypoint:서리열매 2:서:580:267:-1012:12:false:0:서리열매:false:0:0:false
+waypoint:서리열매 1:서:459:230:-973:12:false:0:서리열매:false:0:0:false
+waypoint:서리연꼿 8:서:-286:256:-838:7:false:0:서리연꽃:false:0:0:false
+waypoint:서리연꽃 7:서:153:311:-875:12:false:0:서리연꽃:false:0:0:false
+waypoint:서리연꽃 6:서:173:308:-875:10:false:0:서리연꽃:false:0:0:false
+waypoint:서리연꼿 5:서:203:281:-890:9:false:0:서리연꽃:false:0:0:false
+waypoint:서리연꽃 4:서:210:244:-880:20:false:0:서리연꽃:false:0:0:false
+waypoint:서리연꽃 3:서:624:273:-936:6:false:0:서리연꽃:false:0:0:false
+waypoint:서리연꽃 2:서:559:273:-886:18:false:0:서리연꽃:false:0:0:false
+waypoint:서리연꽃 1:서:424:218:-984:1:false:0:서리연꽃:false:0:0:false
+waypoint:사막장미 3:사:-497:77:-183:3:false:0:사막장미:false:0:0:false
+waypoint:사막장미 2:사:-600:73:700:0:false:0:사막장미:false:0:0:false
+waypoint:사막장미 1:사:-407:74:467:2:false:0:사막장미:false:0:0:false

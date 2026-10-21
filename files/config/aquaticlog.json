@@ -1,0 +1,9 @@
+{
+  "includeHotbar": true,
+  "customGrades": [
+    "G",
+    "L",
+    "S",
+    "A"
+  ]
+}

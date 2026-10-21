@@ -1,0 +1,182 @@
+{
+  "version": 7,
+  "profiles": [
+    {
+      "version": 4,
+      "name": "Default Profile",
+      "links": [],
+      "addToHistory": "OFF",
+      "showHudMessage": "OFF",
+      "resumeRepeating": "OFF",
+      "useRatelimit": "ON",
+      "macros": [
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "VETO",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.e",
+            "limitKeyName": "key.keyboard.left.control"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/qoskd",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "VETO",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.e",
+            "limitKeyName": "key.keyboard.left.shift"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/ckdrh",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "VETO",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.g",
+            "limitKeyName": "key.keyboard.left.shift"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/섬 퇴장",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "VETO",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.f",
+            "limitKeyName": "key.keyboard.w"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/akfthghks",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 7,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "VETO",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "name": "",
+          "mcActivatorKey": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.f",
+            "limitKeyName": "key.keyboard.left.control"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/배소환",
+              "delayTicks": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spDefault": 0,
+  "mpDefault": 0,
+  "defaultConflictStrategy": "SUBMIT",
+  "defaultSendMode": "SEND",
+  "defaultActivationType": "HOLD",
+  "ratelimitCount": 4,
+  "ratelimitTicks": 20,
+  "ratelimitStrict": false,
+  "ratelimitSp": false,
+  "lengthLimitLength": 256,
+  "macroMcKeyCount": 0
+}

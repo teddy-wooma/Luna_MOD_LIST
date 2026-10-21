@@ -1,0 +1,20 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+defaultMultiworldId:mw-1,1,-1
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:minecraft$deep_sea:minecraft$overworld
+dimensionType:minecraft$guild_world:minecraft$overworld
+dimensionType:minecraft$afk_world:minecraft$overworld
+dimensionType:minecraft$mine:minecraft$overworld
+dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:minecraft$island_world:minecraft$overworld
+//third-party waypoints
