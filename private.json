@@ -80,6 +80,10 @@
     "size": 32202,
     "sha1": "1f5498919966c2cbd3358e9c7588e65496e210da",
     "root": "",
-    "note": "zip 안의 경로는 게임 폴더 기준입니다. (config/..., xaero/minimap/...)"
+    "note": "zip 안의 경로는 게임 폴더 기준입니다. (config/..., xaero/minimap/...)",
+    "merge": [
+      "^xaero/minimap/.+/mw\\$.*\\.txt$"
+    ],
+    "mergeNote": "이 패턴에 맞는 파일은 기존 내용에 웨이포인트를 병합합니다. (덮어쓰지 않음)"
   }
 }
